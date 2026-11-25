@@ -1,1 +1,159 @@
-# bmighty26.github.io
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>My Developer Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>My Developer Portfolio</h1>
+
+    <nav>
+
+        <a href="#about">About</a>
+
+        <a href="#skills">Skills</a>
+
+        <a href="#projects">Projects</a>
+
+        <a href="#contact">Contact</a>
+
+    </nav>
+
+</header>
+
+<section class="hero">
+
+    <h2>Hello, I'm a Future Developer!</h2>
+
+    <p>Building my skills through coding, creativity, and hands-on projects.</p>
+
+</section>
+
+<section id="about">
+
+    <h2>About Me</h2>
+
+    <p>
+
+        I am a student developing my skills in web development,
+
+        programming, and technology. I enjoy learning new tools,
+
+        solving problems, and creating projects that make an impact.
+
+    </p>
+
+</section>
+
+<section id="skills">
+
+    <h2>Technical Skills</h2>
+
+    <div class="skills-list">
+
+        <span>HTML</span>
+
+        <span>CSS</span>
+
+        <span>JavaScript</span>
+
+        <span>Bootstrap</span>
+
+        <span>GitHub</span>
+
+        <span>API Integration</span>
+
+    </div>
+
+</section>
+
+<section id="projects">
+
+    <h2>My Projects</h2>
+
+<div class="project-card">
+
+    <h3>Intel Sustainability Website</h3>
+
+    <p>A responsive website focused on sustainability.</p>
+
+    <a href="ADD-LIVE-LINK-HERE" target="_blank">Live Demo</a>
+
+    <a href="ADD-GITHUB-LINK-HERE" target="_blank">View Code</a>
+
+</div>
+
+
+
+<div class="project-card">
+
+    <h3>Intel Sustainability Summit</h3>
+
+    <p>An interactive event check-in application.</p>
+
+    <a href="ADD-LIVE-LINK-HERE" target="_blank">Live Demo</a>
+
+    <a href="ADD-GITHUB-LINK-HERE" target="_blank">View Code</a>
+
+</div>
+
+
+
+<div class="project-card">
+
+    <h3>Charity: Water Game</h3>
+
+    <p>An interactive game inspired by the charity: water mission.</p>
+
+    <a href="ADD-LIVE-LINK-HERE" target="_blank">Live Demo</a>
+
+    <a href="ADD-GITHUB-LINK-HERE" target="_blank">View Code</a>
+
+</div>
+
+
+
+<div class="project-card">
+
+    <h3>L'Oréal Beauty Assistant</h3>
+
+    <p>An AI-powered beauty assistant chatbot.</p>
+
+    <a href="ADD-LIVE-LINK-HERE" target="_blank">Live Demo</a>
+
+    <a href="ADD-GITHUB-LINK-HERE" target="_blank">View Code</a>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+    <h2>Connect With Me</h2>
+
+    <p>GitHub: <a href="https://github.com/bmighty26">bmighty26</a></p>
+
+</section>
+
+<footer>
+
+    <p>&copy; 2026 My Developer Portfolio</p>
+
+</footer>
+
+</body>
+
+</html>
